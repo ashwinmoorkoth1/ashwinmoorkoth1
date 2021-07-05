@@ -10,10 +10,15 @@ You can checkout my LinkedIn profile at https://www.linkedin.com/in/ashwinmoorko
 ## Skills and Experience
 
 End to End supply chain management- Process, People and System
+
 Laying down the canvas for Digital journey- especially Supply Chain Function
-Demand Planning- Forecasting, Network design, Requirement Planning
+
+Demand Planning- Forecasting, Supply Planning, MRP
+
 Inventory and SLOB management
-Sales and Operational Planning process
+
+Sales and Operational Planning
+
 Budgeting
 
 I have created this profile to showcase how data and analytical methods are used in supply chains and explaining the process of making optimum decision through it.
