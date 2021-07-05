@@ -1,6 +1,6 @@
-### Hi there 👋
-
-
+### Hi there 👋, Ashwin Moorkoth
+#### Supply Chain and Analytics
+![Supply Chain and Analytics](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Business and Supply Chain management professional with over 12 years of rich experience in orchestrating and optimizing end to end supply chain solutions. Aided with world class business education from Cranfield University, Micro master’s in supply chain management (MIT) and certification from APICS CPIM, have enabled me to create solutions for business in improving bottom line results for the company. My expertise lies in designing and building global supply chain networks, Demand and Supply Planning solution, Inventory & Warehouse Management, Commercial Operations, Customer Service, and E-commerce order fulfillment.
 
@@ -16,44 +16,10 @@ Budgeting
 
 I have created this profile to showcase how data and analytical methods are used in supply chains and explaining the process of making optimum decision through it.
 
+Skills: Supply Chain Planning  / Business Intelligence  / Oracle JDE / SAP / Tableau / Python / Data Science
+
+- 🔭 I’m currently working on this page. 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**ashwinmoorkoth1/ashwinmoorkoth1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
