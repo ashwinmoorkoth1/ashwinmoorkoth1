@@ -25,8 +25,8 @@ I have created this profile to showcase how data and analytical methods are used
 
 Technical Skills: Supply Chain Planning  / Business Intelligence  / Oracle JDE / SAP / Tableau / Python / Data Science
 
-<iframe src="https://giphy.com/embed/WsRay6mTizlOVn3nts" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Siemens--shipping-shipment-shipyard-WsRay6mTizlOVn3nts">via GIPHY</a></p>
 
+![Forecasting Using Regression](https://github.com/ashwinmoorkoth1/Forecasting_Regression_FreightRates.git)
 
 
 
