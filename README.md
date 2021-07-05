@@ -25,7 +25,7 @@ I have created this profile to showcase how data and analytical methods are used
 
 Technical Skills: Supply Chain Planning  / Business Intelligence  / Oracle JDE / SAP / Tableau / Python / Data Science
 
-- 🔭 I’m currently working on this page. 
+<iframe src="https://giphy.com/embed/WsRay6mTizlOVn3nts" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Siemens--shipping-shipment-shipyard-WsRay6mTizlOVn3nts">via GIPHY</a></p>
 
 
 
