@@ -24,7 +24,7 @@ Budgeting
 Technical Skills: Supply Chain Planning  / Business Intelligence  / Oracle JDE / SAP / Tableau / Python / Data Science
 
 
-# I have created this profile to showcase how data and analytical methods are used in supply chains and explaining the process of making optimum decision through it.
+### I have created this profile to showcase how data and analytical methods are used in supply chains and explaining the process of making optimum decision through it.
 
 ## Please Click on the below links to access each of the projects
 
