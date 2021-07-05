@@ -26,6 +26,7 @@ Technical Skills: Supply Chain Planning  / Business Intelligence  / Oracle JDE /
 
 ### I have created this profile to showcase how data and analytical methods are used in supply chains and explaining the process of making optimum decision through it.
 
+
 ## Please Click on the below links to access each of the projects
 
 [Forecasting Using Regression](https://github.com/ashwinmoorkoth1/Forecasting_Regression_FreightRates/blob/main/Forecasting%20Regression.ipynb)
