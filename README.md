@@ -7,7 +7,8 @@ Business and Supply Chain management professional with over 12 years of rich exp
 
 You can checkout my LinkedIn profile at https://www.linkedin.com/in/ashwinmoorkoth/
 
-Skills and Experience
+## Skills and Experience
+
 End to End supply chain management- Process, People and System
 Laying down the canvas for Digital journey- especially Supply Chain Function
 Demand Planning- Forecasting, Network design, Requirement Planning
