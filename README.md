@@ -31,5 +31,5 @@ Technical Skills: Supply Chain Planning  / Business Intelligence  / Oracle JDE /
 
 [Forecasting Using Regression](https://github.com/ashwinmoorkoth1/Forecasting_Regression_FreightRates/blob/main/Forecasting%20Regression.ipynb)
 
-
+[Forecasting Using Time Series Methods](https://github.com/ashwinmoorkoth1/Forecasting_Using_Time_Series/blob/main/Forecasting%20.ipynb)
 
