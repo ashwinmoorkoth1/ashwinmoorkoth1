@@ -54,10 +54,14 @@ Procurement optimization
    - Planning with Final Assembly (if you can forecast the final product : Distribution environment - most used)
    - Net Requirements Planning (Mass manufacturing)
    - Gross Requirements Planning (Mass manufacturing where production will not stop regardless of stock)
-   #### Expected 15 Jul 21
+   #### Expected 15th Jul 21
    
 2. Production Optimization
-3. Supply Chain Segmentation Strategies: ABC Analysis and Introduction to how Coefficeint of variation can be used
-
+   - Simple Huristics : Level	Producton Strategy;  Chase	Producton Strategy
+   - Specialized	Heuristcs : Silver Meal Algorithm
+   - Discreate Optimization : Mixed integer linear programming
+   
+4. Supply Chain Segmentation Strategies: ABC Analysis and Introduction to how Coefficeint of variation can be used
+   #### Expected 10th Jul, 21
 
 
