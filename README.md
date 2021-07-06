@@ -36,7 +36,7 @@ Blow is a project to display its capabilities using Tableau's SuperStore dataset
 [Forecasting Using Time Series Methods Link](https://github.com/ashwinmoorkoth1/Forecasting_Using_Time_Series/blob/main/Forecasting%20.ipynb)
 _____
 
-<span style="color: green">  ####  Project 2 : Regression Forecasting </span>
+####  Project 2 : Regression Forecasting
 Forecasting of Freight Rates done using regression methods (This gives us an insight into the process of doing regression)
 
 [Forecasting Using Regression Link](https://github.com/ashwinmoorkoth1/Forecasting_Regression_FreightRates/blob/main/Forecasting%20Regression.ipynb)
