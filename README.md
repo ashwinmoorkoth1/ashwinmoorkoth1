@@ -1,4 +1,4 @@
-![Supply Chain and Analytics](https://github.com/ashwinmoorkoth1/ashwinmoorkoth1/blob/main/Ashwin.jpg)
+![Supply Chain and Analytics](https://github.com/ashwinmoorkoth1/ashwinmoorkoth1/blob/main/Ashwin%20(1).png)
 
 # Hi there 👋, I am Ashwin Moorkoth
 ## Supply Chain and Analytics
