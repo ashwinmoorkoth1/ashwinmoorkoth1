@@ -37,4 +37,5 @@ Technical Skills: Supply Chain Planning  / Business Intelligence  / Oracle JDE /
 
 ## Upcoming Projects
 
-1. 
+1. Supply Planning / Materials Requirement Planning (Using Make to stock scenario)
+2. Prod
