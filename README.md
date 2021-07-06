@@ -3,7 +3,7 @@
 # Hi there 👋, I am Ashwin Moorkoth
 ## Supply Chain and Analytics
 
-Business and Supply Chain management professional with over 12 years of rich experience in orchestrating and optimizing end to end supply chain solutions. Aided with world class business education from Cranfield University, Micro master’s in supply chain management (MIT) and certification from APICS CPIM, have enabled me to create solutions for business in improving bottom line results for the company. My expertise lies in designing and building global supply chain networks, Demand and Supply Planning solution, Inventory & Warehouse Management, Commercial Operations, Customer Service, and E-commerce order fulfillment.
+Business and Supply Chain management professional with over 12 years of rich experience in orchestrating and optimizing end to end supply chain solutions. Aided with world class business education from Cranfield University, Micro master’s in supply chain management (MIT) and certification from APICS CPIM, have enabled me to create solutions for business in improving bottom line results for the companies I have worked for. My expertise lies in designing and building global supply chain networks, Demand and Supply Planning, Inventory & Warehouse Management, Commercial Operations, Customer Service, and E-commerce order fulfillment.
 
 You can checkout my LinkedIn profile at https://www.linkedin.com/in/ashwinmoorkoth/
 
