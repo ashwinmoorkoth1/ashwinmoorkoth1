@@ -50,5 +50,14 @@ Procurement optimization
 
 ## Upcoming Projects
 
-1. Supply Planning / Materials Requirement Planning (Using Make to stock scenario)
-2. Prod
+1. Supply Planning / Materials Requirement Planning (With focus on Make to stock Strategies)
+   - Planning with Final Assembly (if you can forecast the final product : Distribution environment - most used)
+   - Net Requirements Planning (Mass manufacturing)
+   - Gross Requirements Planning (Mass manufacturing where production will not stop regardless of stock)
+   #### Expected 15 Jul 21
+   
+2. Production Optimization
+3. Supply Chain Segmentation Strategies: ABC Analysis and Introduction to how Coefficeint of variation can be used
+
+
+
