@@ -34,6 +34,7 @@ Technical Skills: Supply Chain Planning  / Business Intelligence  / Oracle JDE /
 [Forecasting Using Time Series Methods](https://github.com/ashwinmoorkoth1/Forecasting_Using_Time_Series/blob/main/Forecasting%20.ipynb)
 
 [Procurement Optimization](https://github.com/ashwinmoorkoth1/Procurement-Optimization/blob/main/Procurement%20Optimization.ipynb)
+[The model created for Optimization can be downloaded here](https://github.com/ashwinmoorkoth1/Procurement-Optimization/blob/main/Tender%20New.xlsx)
 
 ## Upcoming Projects
 
