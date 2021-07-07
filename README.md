@@ -33,7 +33,7 @@ Technical Skills: Supply Chain Planning  / Business Intelligence  / Oracle JDE /
 Time Series forecasting is a very important technique used in the demand planning process. Predicting future demand is one of the most valuable activities the organizations can undertake. A demand plan’s impact is felt throughout the business, from sales and marketing to manufacturing and distribution. When forecasting models are built correctly, demand planning can position the company in a great position to deliver superior customer service while meeting their financial objectives.
 Blow is a project to display its capabilities using Tableau's SuperStore dataset. It gives an understanding into model selection evaluation and forecasting into the future.
 
-[Forecasting Using Time Series Methods Link](https://github.com/ashwinmoorkoth1/Forecasting_Using_Time_Series/blob/main/Forecasting%20.ipynb)
+[Forecasting Using Time Series Methods Link](https://github.com/ashwinmoorkoth1/Forecasting_Using_Time_Series/blob/main/Forecasting%201%20.ipynb)
 _____
 
 ###  Project 2 : Regression Forecasting
