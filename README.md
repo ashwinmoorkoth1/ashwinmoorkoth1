@@ -62,7 +62,7 @@ We also look into to the process of decision making which running these models.
    - Specialized	Heuristcs : Silver Meal Algorithm
    - Discreate Optimization : Mixed integer linear programming
    
-4. Supply Chain Segmentation Strategies: ABC Analysis and Introduction to how Coefficeint of variation can be used
+4. Supply Chain Segmentation Strategies: ABC Analysis and Introduction to how Coefficeint of variation can be used to double segmentation.
    #### Expected 10th Jul, 21
 
 
