@@ -55,7 +55,7 @@ We also look into to the process of decision making which running these models.
    - Planning with Final Assembly (if you can forecast the final product : Distribution environment - most used)
    - Net Requirements Planning (Mass manufacturing)
    - Gross Requirements Planning (Mass manufacturing where production will not stop regardless of stock)
-   #### Expected 15th Jul 21
+   #### Expected 17th Jul 21
    
 2. Production Optimization
    - Simple Huristics : Level	Producton Strategy;  Chase	Producton Strategy
@@ -63,6 +63,6 @@ We also look into to the process of decision making which running these models.
    - Discreate Optimization : Mixed integer linear programming
    
 4. Supply Chain Segmentation Strategies: ABC Analysis and Introduction to how Coefficeint of variation can be used to double segmentation.
-   #### Expected 10th Jul, 21
+   #### Expected 13th Jul, 21
 
 
