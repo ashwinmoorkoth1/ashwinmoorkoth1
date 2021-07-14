@@ -49,7 +49,12 @@ We also look into to the process of decision making which running these models.
 
 [The model created for Optimization can be downloaded here](https://github.com/ashwinmoorkoth1/Procurement-Optimization/blob/main/Tender%20New.xlsx)
 
-### Project 4 : Supply Planning
+### Project 4 : Supply Chain Segmentation Strategies: ABC Analysis and (Inprogress - Introduction to how Coefficeint of variation) can be used to double segmentation.
+
+[ABC Segmentation Link](https://github.com/ashwinmoorkoth1/Supply-Chain-Segmentation/blob/main/ABC-Copy2.ipynb)
+
+
+### Project 5 : Supply Planning - Net Requirements Planning 
 
 [Supply Planning Summary Link](https://github.com/ashwinmoorkoth1/Supply-Planning/blob/main/Supply%20Planning%20Summary%20and%20Visualization.ipynb)
 
@@ -57,18 +62,9 @@ We also look into to the process of decision making which running these models.
 
 ## Upcoming Projects
 
-1. Supply Planning / Materials Requirement Planning (With focus on Make to stock Strategies)
-   - Planning with Final Assembly (if you can forecast the final product : Distribution environment - most used)
-   - Net Requirements Planning (Mass manufacturing)
-   - Gross Requirements Planning (Mass manufacturing where production will not stop regardless of stock)
    #### Expected 17th Jul 21
    
 2. Production Optimization
    - Simple Huristics : Level	Producton Strategy;  Chase	Producton Strategy
    - Specialized	Heuristcs : Silver Meal Algorithm
    - Discreate Optimization : Mixed integer linear programming
-   
-4. Supply Chain Segmentation Strategies: ABC Analysis and Introduction to how Coefficeint of variation can be used to double segmentation.
-   #### Expected 13th Jul, 21
-
-
