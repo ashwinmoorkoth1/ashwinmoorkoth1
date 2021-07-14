@@ -41,18 +41,22 @@ Forecasting of Freight Rates done using regression methods (This gives us an ins
 
 [Forecasting Using Regression Link](https://github.com/ashwinmoorkoth1/Forecasting_Regression_FreightRates/blob/main/Forecasting%20Regression.ipynb)
 _____
+
 ###  Project 3 : Procurement optimization
+
 This project focusus on the application of discrete optimization on procurement function the example looks at frieght procurement. This model can be extended in procureing any services or products. The optimization is run on Excel with a new Python based solver which can manage a lot more decision variables.
 We also look into to the process of decision making which running these models.
 
 [Procurement Optimization Link](https://github.com/ashwinmoorkoth1/Procurement-Optimization/blob/main/Procurement%20Optimization.ipynb)
 
 [The model created for Optimization can be downloaded here](https://github.com/ashwinmoorkoth1/Procurement-Optimization/blob/main/Tender%20New.xlsx)
+_____
 
 ### Project 4 : Supply Chain Segmentation Strategies: ABC Analysis and (Inprogress - Introduction to how Coefficeint of variation) can be used to double segmentation.
 
 [ABC Segmentation Link](https://github.com/ashwinmoorkoth1/Supply-Chain-Segmentation/blob/main/ABC-Copy2.ipynb)
 
+_____
 
 ### Project 5 : Supply Planning - Net Requirements Planning 
 
