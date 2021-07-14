@@ -49,6 +49,12 @@ We also look into to the process of decision making which running these models.
 
 [The model created for Optimization can be downloaded here](https://github.com/ashwinmoorkoth1/Procurement-Optimization/blob/main/Tender%20New.xlsx)
 
+### Project 4 : Supply Planning
+
+[Supply Planning Summary Link](https://github.com/ashwinmoorkoth1/Supply-Planning/blob/main/Supply%20Planning%20Summary%20and%20Visualization.ipynb)
+
+[Supply Planning Logic Link](https://github.com/ashwinmoorkoth1/Supply-Planning/blob/main/Supply%20Planning.ipynb)
+
 ## Upcoming Projects
 
 1. Supply Planning / Materials Requirement Planning (With focus on Make to stock Strategies)
