@@ -65,10 +65,11 @@ _____
 [Supply Planning Logic Link](https://github.com/ashwinmoorkoth1/Supply-Planning/blob/main/Supply%20Planning.ipynb)
 
 ## Upcoming Projects
-
-   #### Expected 17th Jul 21
-   
-2. Production Optimization
+1. Forecasting using time series
+   - Updating the current book to include error tracking
+   - Automatic Forecasting - With a few products, and a few forecasting models we put in mechanisms to select the best model and forecast baseline
+  
+3. Production Optimization
    - Simple Huristics : Level	Producton Strategy;  Chase	Producton Strategy
    - Specialized	Heuristcs : Silver Meal Algorithm
    - Discreate Optimization : Mixed integer linear programming
