@@ -60,9 +60,9 @@ _____
 
 ### Project 5 : Supply Planning - Net Requirements Planning 
 
-[Supply Planning Summary Link](https://github.com/ashwinmoorkoth1/Supply-Planning/blob/main/Supply%20Planning%20Summary%20and%20Visualization.ipynb)
+[Supply Planning Summary Link](https://github.com/ashwinmoorkoth1/Supply-Planning/blob/main/SupplyPlanningSummaryandVisualization.ipynb)
 
-[Supply Planning Logic Link](https://github.com/ashwinmoorkoth1/Supply-Planning/blob/main/Supply%20Planning.ipynb)
+[Supply Planning Logic Link](https://github.com/ashwinmoorkoth1/Supply-Planning/blob/main/SupplyPlanning.ipynb)
 
 ## Upcoming Projects
 1. Forecasting using time series
