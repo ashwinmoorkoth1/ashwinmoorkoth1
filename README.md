@@ -71,7 +71,9 @@ _____
       * Best Fit
       * Bayesian Blend
   
-3. Production Optimization
+2. Production Optimization
    - Simple Huristics : Level	Producton Strategy;  Chase	Producton Strategy
    - Specialized	Heuristcs : Silver Meal Algorithm
    - Discreate Optimization : Mixed integer linear programming
+
+3. Multi-Echelon Inventory Optimization
